@@ -1,6 +1,7 @@
 http://jalammar.github.io/illustrated-transformer/
 https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W_Kcu-gzbcs
 http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+https://towardsdatascience.com/memory-attention-sequences-37456d271992
 
 pytorch implmentataion by harvard
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
