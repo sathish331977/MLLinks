@@ -1,0 +1,3 @@
+http://jalammar.github.io/illustrated-transformer/
+https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W_Kcu-gzbcs
+http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
